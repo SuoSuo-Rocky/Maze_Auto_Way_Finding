@@ -1,0 +1,11 @@
+docx==0.2.4
+keyboard==0.13.5
+lxml==4.5.1
+Pillow==7.1.2
+pygame==1.9.6
+pygame-geometry==0.1.0
+pygame-menu==3.1.0
+pyperclip==1.8.0
+python-docx==0.8.10
+pytz==2020.1
+thorpy==1.7
