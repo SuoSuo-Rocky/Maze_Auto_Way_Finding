@@ -1,6 +1,6 @@
 docx==0.2.4
 keyboard==0.13.5
-lxml==4.5.1
+lxml==4.6.3
 Pillow==7.1.2
 pygame==1.9.6
 pygame-geometry==0.1.0
